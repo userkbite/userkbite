@@ -13,3 +13,4 @@ See more 👇
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-kbite)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-kbite&layout=compact)](https://github.com/user-kbite/github-readme-stats)
