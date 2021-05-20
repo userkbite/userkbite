@@ -10,3 +10,6 @@ See more 👇
 
 
 ![Image](https://i.ibb.co/k3YzLFn/image1.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-kbite)
+
