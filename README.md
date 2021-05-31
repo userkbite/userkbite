@@ -1,6 +1,6 @@
-# Hi 🙌
+# Hi
 
-My name is Guilherme, i'm from Brazil 🇧🇷 I've been a student of programming on my own since 2020. 👨‍💻
+I'm Nightzx, i'm from Brazil 🇧🇷 I've been a student of programming on my own since 2020. 👨‍💻
 
 See more 👇
 
