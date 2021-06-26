@@ -8,13 +8,10 @@ See more 👇
 ](https://instagram.com/nightzx.py)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/user-kbite)
 ](https://github.com/user-kbite)
 
-
-![Image](https://i.ibb.co/k3YzLFn/image1.png)
-
 <div>
   <a href="https://github.com/user-kbite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-kbite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-kbite&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-kbite&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-kbite&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <p>
 <img alingn="center" src="https://profile-counter.glitch.me/user-kbite/count.svg" />
