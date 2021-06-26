@@ -23,6 +23,8 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+---
+
 <div>
   <a href="https://github.com/user-kbite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-kbite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
