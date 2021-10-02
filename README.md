@@ -5,7 +5,7 @@
 ## About me
 
 - I'm 14y
-- I'm Portuguese
+- I'm Brazilian
 
 ---
 
