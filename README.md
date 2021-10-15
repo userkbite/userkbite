@@ -4,7 +4,6 @@
 
 ## About me
 
-- I'm 14y
 - I'm Brazilian
 
 ---
