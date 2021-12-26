@@ -27,8 +27,6 @@ AboutMe("Hello there, I'm Userkbite")
 
 ---
 
-<br />
-
 <div>
   <a href="https://github.com/userkbite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=userkbite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
