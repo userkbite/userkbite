@@ -1,5 +1,3 @@
-## About me
-
 ```python
 class AboutMe:
     
@@ -10,7 +8,6 @@ class AboutMe:
         return self.text
 
 AboutMe("Hello there, I'm Userkbite")
-    
 ```
 
 ---
