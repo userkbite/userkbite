@@ -1,12 +1,15 @@
-### Hey 👋
-
----
-
 ## About me
 
 ```python
 class AboutMe:
     
+    def __init__(self, text):
+        self.text = text
+    
+    def __repr__(self):
+        return self.text
+
+AboutMe('Hello there, I'm Userkbite')
     
 ```
 
